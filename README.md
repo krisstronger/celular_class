@@ -1,3 +1,3 @@
 # celular_class
-celular
+celular tipo prueba
 
